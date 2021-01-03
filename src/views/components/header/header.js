@@ -10,7 +10,7 @@ const Header = (props) => {
             <div className="cart">
                 <a className="cart__image"></a>
                 <a className="cart__name">cart</a>
-                <a className="cart__counter"><span className="cart__counter--number">0</span></a>
+                <a className="cart__counter-circle"><span className="cart__counter-circle--number">0</span></a>
             </div>
         </header >
     );
