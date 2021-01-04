@@ -1,0 +1,30 @@
+.main-grid {
+  position: relative;
+  top: 180px;
+  left: 335px;
+  width: 1508px;
+  height: 667px;
+
+  display: grid;
+  justify-items: center;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-row-gap: 50px;
+  gap: 50px;
+}
+
+.our-products-title {
+  position: absolute;
+  width: 219px;
+  height: 42px;
+  left: 380px;
+  top: 90px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #000000;
+}

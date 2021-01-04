@@ -1,7 +1,7 @@
 import React from 'react';
 import './filters.scss';
 
-const Filters = (props) => {
+const Filters = () => {
     return (
         <aside className="aside">
             <div className="aside aside--border"></div>
@@ -32,6 +32,7 @@ const Filters = (props) => {
                 name="filter"
                 value="Radio3"></input>
             <label htmlFor="radio3">$101 - $200</label>
+
             <h3>Sort by:</h3>
             <select id="sortby">
                 <option value="Relevant">Relevant</option>
