@@ -1,5 +1,5 @@
 .App-header {
-  position: absolute;
+  position: fixed;
   width: 1920px;
   height: 90px;
   left: 0px;
@@ -39,10 +39,10 @@
 .logo__title--to-right {
   left: 15px;
   height: 30px;
-  top: 27px;
+  top: 30px;
 }
 
-.cart {
+.cart-header {
   position: relative;
   left: 1675px;
   top: 23px;

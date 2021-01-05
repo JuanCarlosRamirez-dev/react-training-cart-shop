@@ -1,0 +1,32 @@
+.modal {
+  position: fixed;
+  top: 90px;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(12, 12, 12, 0.53);
+  z-index: 1;
+}
+
+.cart {
+  position: fixed;
+  top: 90px;
+  left: 1307px;
+  width: 493px;
+  height: 100vh;
+  background-color: #fff;
+  padding: 25px 0 0 65px;
+  text-align: left;
+}
+
+.close {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: 435px;
+  top: 25px;
+}
+
+.cart__btn--large {
+  width: 370px;
+  background: #2980b9;
+}

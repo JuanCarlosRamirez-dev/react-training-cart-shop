@@ -2,22 +2,23 @@
   position: relative;
   top: 180px;
   left: 335px;
-  width: 1508px;
-  height: 667px;
+  width: 1440px;
+  height: 800px;
 
   display: grid;
   justify-items: center;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   grid-row-gap: 50px;
-  gap: 50px;
+  grid-gap: 30px 60px;
+  gap: 90px 160px;
 }
 
 .our-products-title {
   position: absolute;
   width: 219px;
   height: 42px;
-  left: 380px;
+  left: 400px;
   top: 90px;
 
   font-family: Roboto;

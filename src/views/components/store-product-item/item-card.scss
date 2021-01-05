@@ -1,0 +1,43 @@
+.main-item {
+  width: 240px;
+}
+
+.main-item__basics {
+  width: 59px;
+  height: 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #ffffff;
+
+  background: #11d000;
+}
+
+.main-item__info {
+  text-align: left;
+}
+
+.main-item__comments {
+  position: relative;
+
+  left: 65px;
+  top: -20px;
+}
+
+.comment-img {
+  width: 12px;
+  height: 10px;
+}
+
+.main-item__btn--blue {
+  margin-top: 10px;
+  background-color: #2980b9;
+}
+
+.main-item__btn--green {
+  margin-top: 5px;
+  background-color: #2ecc71;
+}

@@ -7,7 +7,7 @@ const Header = () => {
             <div className="logo" >
                 <div className="logo__title">Globant<span className="logo__title logo__title--to-right">Shops</span></div>
             </div>
-            <div className="cart">
+            <div className="cart-header">
                 <a href="#" className="cart__image"></a>
                 <a href="#" className="cart__name">cart</a>
                 <a href="#" className="cart__counter-circle"><span className="cart__counter-circle--number">0</span></a>
