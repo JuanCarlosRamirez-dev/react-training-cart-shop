@@ -1,6 +1,6 @@
 import React from 'react';
 import ItemInfo from '../store-product-item/item-info';
-import ItemComments from './item-comments-section';
+import ItemComments from './item-comments-sec';
 import Button from '../button/button';
 import classNames from 'classnames';
 

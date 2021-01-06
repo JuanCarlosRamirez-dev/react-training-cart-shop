@@ -1,6 +1,6 @@
 import React from 'react';
 import Comment from './item-comment';
-import './item-comments-section.scss';
+import './item-comments-sec.scss';
 
 const ItemComments = () => {
     return (
