@@ -1,0 +1,37 @@
+.item-page {
+  position: relative;
+  top: 180px;
+  left: 400px;
+  width: 1200px;
+}
+
+.item-page__item-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.item-page__item-info {
+  text-align: left;
+  width: 380px;
+}
+
+.item-page__image {
+  width: 250px;
+  height: 334.27px;
+}
+
+.item-page__paragraph {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.item-page__btn--large {
+  width: 380px;
+  background: #2ecc71;
+}
+
+.item-page__item-info--size {
+  font-size: 36px;
+  line-height: 42px;
+}

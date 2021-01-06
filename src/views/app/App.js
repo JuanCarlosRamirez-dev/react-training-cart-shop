@@ -9,9 +9,9 @@ function App() {
   return (
     <div className="App">
       <Header />
-      {/* <Filters />
-      <MainProducts />
-      <Cart /> */}
+      {/*<Filters />
+      <MainProducts /> 
+      <Cart />*/}
       <ItemPage />
     </div>
   );

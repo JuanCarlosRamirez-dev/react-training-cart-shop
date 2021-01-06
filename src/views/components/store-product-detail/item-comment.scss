@@ -1,0 +1,21 @@
+.comment {
+  position: relative;
+  left: 50px;
+  top: 10px;
+  width: 1000px;
+  border-bottom: 1px solid #e3e3e3;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.comment__customer {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.comment__content {
+  font-size: 16px;
+  line-height: 19px;
+}

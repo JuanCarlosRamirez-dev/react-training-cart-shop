@@ -16,20 +16,14 @@
   background: #11d000;
 }
 
-.main-item__info {
-  text-align: left;
+.main-item__image {
+  width: 89px;
+  height: 119px;
 }
 
-.main-item__comments {
-  position: relative;
-
-  left: 65px;
-  top: -20px;
-}
-
-.comment-img {
-  width: 12px;
-  height: 10px;
+.main-item__item-info--size {
+  font-size: 16px;
+  line-height: 19px;
 }
 
 .main-item__btn--blue {
