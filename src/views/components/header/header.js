@@ -3,12 +3,6 @@ import './header.scss';
 
 const Header = () => {
 
-    /* const [counter, setCounter] = useState(0); */
-
-    /*  const handleClick = () => {
-         setCounter(counter + 1);
-     }; */
-
     return (
         < header className="App-header" >
             <div className="logo" >
